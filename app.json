@@ -13,27 +13,27 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "de2781dce723aa9a68ba4948b9e7044f"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "24068626"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "7495657550:AAGYMh3ARARf0t1lwXO-39RKtLxL1ztKqR8"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": ""
+            "value": "BQFvQhIAAZ0lVxI4xDr-Zl9FydL-V_EPmmiXcMzuOc5a6pCAUfzIovwfX1sasKNB8HiRBLIj2XKP26pUQOf5N1-u6W15WBGFdhkPLPIcoOrqi4nO_1PPfcgtgWcW01aIYElo7kiYjWknrS4zzgkmW0DiltmD8I9zlgYJmJrmpMdhRZ1UClQgfusquJXZkMYDSOLDTkBDcfvVkd46s4HxlnT0vgMWx43Q3Um2TBglH7bLnRJJsp2YrGCNj-zR6stE6dliYzR4UlXCD-_Vrru0GiEpaHFA00zJJGCLkSTxfso3QgR79A_05Pckztrhe4fKrZGuFlIVqTuXdw3c10Ecm6YfrQ4gWAAAAAFs-sSPAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "chetak_gaming"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "chetak_hacking"
         }
     },
     "buildpacks": [
